@@ -3,6 +3,8 @@
 
 ##GASとVueを使ったデータ蓄積アプリ
 
+### データ管理に特化した簡単なアプリを作成しています。
+
 ## Project setup
 ```
 yarn install
